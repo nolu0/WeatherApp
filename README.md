@@ -1,5 +1,7 @@
 NOLUTHANDO SANELISIWE NSIBANDE (ST10457711)
-The purpose of this app is to show different weather conditions to a local organisation and also make thing much easier as you will be assisted by ceratains buttons to show you different pages.
+The purpose of this app is to show different weather conditions to a local organisation and also make thing much easier as you will be assisted by ceratains buttons to show you different pages
+.https://github.com/nolu0/WeatherApp
+
 This app here displays each and every detail about how it works and why things are dine in a certain way.
 Start Create a Splash Screen for your app
 Have a Main Screen, where you will detail everything
