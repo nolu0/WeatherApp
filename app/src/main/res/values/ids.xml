@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnClear" type="id" />
+    <item name="btnInsert" type="id" />
+    <item name="btnDeatails" type="id" />
+</resources>
